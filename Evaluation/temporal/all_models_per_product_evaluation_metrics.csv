@@ -1,0 +1,271 @@
+Target_Horizon,Model,commodity_name,MSE,RMSE,R,RAE (%),MAPE (%)
+target_14,Gradient Boosting,'Ata (Packet)',3.2787,1.8107,0.9113,74.6,2.56
+target_14,Linear Regression,'Ata (Packet)',17.5727,4.192,0.654,194.65,6.64
+target_14,M5P,'Ata (Packet)',23.5709,4.855,0.8403,221.64,7.8
+target_14,Random Forest,'Ata (Packet)',3.997,1.9993,0.9397,86.72,2.99
+target_14,XGBoost,'Ata (Packet)',4.1446,2.0358,0.8826,90.12,3.14
+target_14,Gradient Boosting,'Ata (loose) - White',10.1332,3.1833,0.5018,81.13,5.12
+target_14,Linear Regression,'Ata (loose) - White',16.9703,4.1195,0.5403,116.58,7.23
+target_14,M5P,'Ata (loose) - White',9.1693,3.0281,0.4979,65.35,4.02
+target_14,Random Forest,'Ata (loose) - White',14.103,3.7554,0.5357,119.63,7.79
+target_14,XGBoost,'Ata (loose) - White',7.8379,2.7996,0.6308,76.08,4.8
+target_14,Gradient Boosting,'Broiler chicken',206.4018,14.3667,0.1751,136.56,7.49
+target_14,Linear Regression,'Broiler chicken',169.7131,13.0274,0.0941,130.17,7.09
+target_14,M5P,'Broiler chicken',211.3611,14.5383,0.1335,137.48,7.56
+target_14,Random Forest,'Broiler chicken',236.1509,15.3672,0.2086,138.63,7.73
+target_14,XGBoost,'Broiler chicken',323.5705,17.9881,0.0993,135.06,7.36
+target_14,Gradient Boosting,'Egg Farm-Red',17.8987,4.2307,0.2686,133.41,8.68
+target_14,Linear Regression,'Egg Farm-Red',22.4239,4.7354,0.3645,138.67,8.48
+target_14,M5P,'Egg Farm-Red',13.6838,3.6992,0.2778,115.17,7.41
+target_14,Random Forest,'Egg Farm-Red',10.2538,3.2022,0.285,99.3,6.25
+target_14,XGBoost,'Egg Farm-Red',19.4549,4.4108,0.2682,137.63,9.01
+target_14,Gradient Boosting,'Garlic (Imported)',256.9045,16.0282,0.8415,79.27,9.85
+target_14,Linear Regression,'Garlic (Imported)',354.8432,18.8373,0.8647,97.18,12.3
+target_14,M5P,'Garlic (Imported)',1274.4284,35.6991,0.2938,140.66,18.01
+target_14,Random Forest,'Garlic (Imported)',342.414,18.5044,0.8642,94.34,11.84
+target_14,XGBoost,'Garlic (Imported)',289.1903,17.0056,0.8176,82.68,10.44
+target_14,Gradient Boosting,'Garlic (local) - Big Size',71.9894,8.4847,0.4931,92.39,7.46
+target_14,Linear Regression,'Garlic (local) - Big Size',83.1108,9.1165,0.4618,111.06,8.48
+target_14,M5P,'Garlic (local) - Big Size',148.3217,12.1787,0.2576,140.29,10.78
+target_14,Random Forest,'Garlic (local) - Big Size',82.5154,9.0838,0.4331,102.06,8.01
+target_14,XGBoost,'Garlic (local) - Big Size',150.9809,12.2874,0.2331,130.34,10.33
+target_14,Gradient Boosting,'Ginger (Imported)',1525.7667,39.0611,-0.1556,118.17,11.17
+target_14,Linear Regression,'Ginger (Imported)',1383.2853,37.1925,-0.0837,108.09,9.87
+target_14,M5P,'Ginger (Imported)',1470.4427,38.3464,-0.0287,131.44,13.03
+target_14,Random Forest,'Ginger (Imported)',1456.4294,38.1632,-0.0543,114.28,10.83
+target_14,XGBoost,'Ginger (Imported)',2108.1145,45.9142,0.1229,222.37,23.63
+target_14,Gradient Boosting,'Green Chili (Local)',2961.972,54.424,0.0803,100.63,34.16
+target_14,Linear Regression,'Green Chili (Local)',2808.3206,52.9936,0.0309,96.0,32.75
+target_14,M5P,'Green Chili (Local)',25402.863,159.3828,-0.0225,289.82,126.45
+target_14,Random Forest,'Green Chili (Local)',4492.1876,67.0238,0.0203,117.23,52.3
+target_14,XGBoost,'Green Chili (Local)',7438.4406,86.2464,-0.0543,131.36,57.89
+target_14,Gradient Boosting,'Lentils - Desi-Whole',171.4077,13.0923,0.4166,79.51,5.23
+target_14,Linear Regression,'Lentils - Desi-Whole',118.4855,10.8851,0.5428,76.47,4.89
+target_14,M5P,'Lentils - Desi-Whole',370.5714,19.2502,0.0943,141.08,9.06
+target_14,Random Forest,'Lentils - Desi-Whole',115.4492,10.7447,0.5373,66.69,4.4
+target_14,XGBoost,'Lentils - Desi-Whole',149.1149,12.2113,0.4681,84.36,5.39
+target_14,Gradient Boosting,'Onion (local)',145.9056,12.0791,-0.066,98.49,8.62
+target_14,Linear Regression,'Onion (local)',148.0333,12.1669,-0.1836,134.37,13.43
+target_14,M5P,'Onion (local)',138.0219,11.7483,-0.0459,103.87,9.59
+target_14,Random Forest,'Onion (local)',141.1927,11.8825,0.1225,141.94,14.69
+target_14,XGBoost,'Onion (local)',144.4202,12.0175,-0.1049,119.71,11.54
+target_14,Gradient Boosting,'Palm Oil',19.0838,4.3685,0.3571,104.06,1.43
+target_14,Linear Regression,'Palm Oil',43.4846,6.5943,0.3088,259.06,3.44
+target_14,M5P,'Palm Oil',17.4896,4.1821,0.3849,116.4,1.58
+target_14,Random Forest,'Palm Oil',14.2231,3.7714,0.2848,85.21,1.17
+target_14,XGBoost,'Palm Oil',156.6831,12.5173,0.0702,173.65,2.35
+target_14,Gradient Boosting,'Pangash (big)',120.2439,10.9656,0.612,70.66,3.29
+target_14,Linear Regression,'Pangash (big)',180.3972,13.4312,0.685,113.59,5.3
+target_14,M5P,'Pangash (big)',152.4345,12.3464,0.4725,93.41,4.38
+target_14,Random Forest,'Pangash (big)',129.0262,11.359,0.5726,71.6,3.32
+target_14,XGBoost,'Pangash (big)',97.7856,9.8887,0.6372,67.27,3.19
+target_14,Gradient Boosting,'Potato (Holland) - Red',15.7996,3.9749,0.3573,93.03,9.97
+target_14,Linear Regression,'Potato (Holland) - Red',49.8799,7.0626,0.5811,234.88,25.9
+target_14,M5P,'Potato (Holland) - Red',23.7033,4.8686,0.4018,110.38,11.55
+target_14,Random Forest,'Potato (Holland) - Red',25.4907,5.0488,0.5653,141.5,14.42
+target_14,XGBoost,'Potato (Holland) - Red',16.2236,4.0279,0.6241,111.21,11.95
+target_14,Gradient Boosting,'Rice - Fine',12.7773,3.5745,0.2476,190.89,4.08
+target_14,Linear Regression,'Rice - Fine',12.9211,3.5946,0.4084,194.57,4.04
+target_14,M5P,'Rice - Fine',13.3557,3.6545,0.2463,163.7,3.48
+target_14,Random Forest,'Rice - Fine',7.9005,2.8108,0.4381,151.69,3.23
+target_14,XGBoost,'Rice - Fine',10.811,3.288,0.2775,146.64,3.12
+target_14,Gradient Boosting,'Rice - Medium',16.6069,4.0752,0.3043,89.42,2.42
+target_14,Linear Regression,'Rice - Medium',32.1812,5.6728,0.2085,217.66,6.1
+target_14,M5P,'Rice - Medium',20.4945,4.5271,0.2902,130.71,3.56
+target_14,Random Forest,'Rice - Medium',16.2153,4.0268,0.249,99.31,2.76
+target_14,XGBoost,'Rice - Medium',16.0443,4.0055,0.2635,76.9,2.08
+target_14,Gradient Boosting,'Soybean Oil(loose)',19.5104,4.4171,0.4125,78.08,1.28
+target_14,Linear Regression,'Soybean Oil(loose)',53.5397,7.3171,0.4145,212.85,3.38
+target_14,M5P,'Soybean Oil(loose)',30.9901,5.5669,0.1039,122.95,1.96
+target_14,Random Forest,'Soybean Oil(loose)',20.92,4.5738,0.4895,81.51,1.32
+target_14,XGBoost,'Soybean Oil(loose)',24.1034,4.9095,0.3757,85.98,1.41
+target_14,Gradient Boosting,Beef,491.1779,22.1625,0.7529,38.55,1.11
+target_14,Linear Regression,Beef,650.043,25.4959,0.7577,71.93,1.93
+target_14,M5P,Beef,711.6811,26.6774,0.6563,58.86,1.64
+target_14,Random Forest,Beef,518.8602,22.7785,0.7433,41.13,1.18
+target_14,XGBoost,Beef,545.1064,23.3475,0.7309,46.43,1.32
+target_14,Gradient Boosting,Milk,11.496,3.3906,0.9958,28.98,3.84
+target_14,Linear Regression,Milk,48.6295,6.9735,0.9778,57.38,6.92
+target_14,M5P,Milk,5.7974,2.4078,0.9758,17.31,2.4
+target_14,Random Forest,Milk,1.0505,1.0249,0.9973,6.61,0.95
+target_14,XGBoost,Milk,2.8166,1.6783,0.9956,11.91,1.63
+target_30,Gradient Boosting,'Ata (Packet)',4.2717,2.0668,0.7893,77.12,2.75
+target_30,Linear Regression,'Ata (Packet)',25.8228,5.0816,0.3992,227.59,7.92
+target_30,M5P,'Ata (Packet)',3.1289,1.7689,0.8118,71.11,2.46
+target_30,Random Forest,'Ata (Packet)',4.6723,2.1616,0.8264,90.8,3.2
+target_30,XGBoost,'Ata (Packet)',2.8964,1.7019,0.7316,59.05,2.07
+target_30,Gradient Boosting,'Ata (loose) - White',9.7939,3.1295,0.3618,86.61,5.09
+target_30,Linear Regression,'Ata (loose) - White',31.52,5.6143,0.2258,172.71,10.12
+target_30,M5P,'Ata (loose) - White',11.541,3.3972,0.4237,81.76,4.83
+target_30,Random Forest,'Ata (loose) - White',10.156,3.1868,0.4406,104.65,6.42
+target_30,XGBoost,'Ata (loose) - White',9.6565,3.1075,0.3964,83.15,4.88
+target_30,Gradient Boosting,'Broiler chicken',267.2318,16.3472,-0.1779,171.3,8.01
+target_30,Linear Regression,'Broiler chicken',217.8496,14.7597,-0.2699,159.06,7.46
+target_30,M5P,'Broiler chicken',235.7666,15.3547,0.0998,158.88,7.39
+target_30,Random Forest,'Broiler chicken',163.8655,12.801,0.3346,126.33,5.87
+target_30,XGBoost,'Broiler chicken',194.3424,13.9407,0.2065,137.48,6.4
+target_30,Gradient Boosting,'Egg Farm-Red',22.5631,4.7501,-0.3395,129.29,9.57
+target_30,Linear Regression,'Egg Farm-Red',64.3146,8.0196,-0.1135,205.37,14.3
+target_30,M5P,'Egg Farm-Red',35.3504,5.9456,-0.4518,162.85,12.1
+target_30,Random Forest,'Egg Farm-Red',20.3941,4.516,-0.1591,119.13,8.46
+target_30,XGBoost,'Egg Farm-Red',12.6837,3.5614,0.3746,90.3,6.83
+target_30,Gradient Boosting,'Garlic (Imported)',309.2386,17.5852,0.7406,101.34,10.81
+target_30,Linear Regression,'Garlic (Imported)',396.9363,19.9233,0.7002,117.71,12.57
+target_30,M5P,'Garlic (Imported)',556.9669,23.6001,0.267,127.03,12.9
+target_30,Random Forest,'Garlic (Imported)',187.8672,13.7065,0.8862,78.08,8.32
+target_30,XGBoost,'Garlic (Imported)',398.3239,19.9581,0.681,118.35,12.52
+target_30,Gradient Boosting,'Garlic (local) - Big Size',131.2526,11.4566,0.2505,123.81,10.39
+target_30,Linear Regression,'Garlic (local) - Big Size',149.1561,12.2129,0.2257,129.95,10.79
+target_30,M5P,'Garlic (local) - Big Size',127.1899,11.2778,0.1014,116.17,9.92
+target_30,Random Forest,'Garlic (local) - Big Size',105.5734,10.2749,0.3923,102.12,8.67
+target_30,XGBoost,'Garlic (local) - Big Size',153.2724,12.3803,0.2062,133.89,11.36
+target_30,Gradient Boosting,'Ginger (Imported)',1191.1791,34.5135,0.1634,134.17,12.1
+target_30,Linear Regression,'Ginger (Imported)',1126.281,33.5601,0.1345,97.2,7.99
+target_30,M5P,'Ginger (Imported)',1779.1445,42.1799,-0.0402,170.24,15.51
+target_30,Random Forest,'Ginger (Imported)',1350.8422,36.7538,-0.0005,139.52,12.34
+target_30,XGBoost,'Ginger (Imported)',1321.0932,36.3468,-0.0147,127.47,11.16
+target_30,Gradient Boosting,'Green Chili (Local)',15142.8974,123.0565,-0.2377,126.65,41.66
+target_30,Linear Regression,'Green Chili (Local)',13319.1851,115.4088,-0.1409,116.05,38.19
+target_30,M5P,'Green Chili (Local)',12743.7543,112.8882,0.0944,114.76,38.63
+target_30,Random Forest,'Green Chili (Local)',12582.5064,112.1718,0.1945,111.39,36.42
+target_30,XGBoost,'Green Chili (Local)',15090.2042,122.8422,-0.0987,126.36,41.67
+target_30,Gradient Boosting,'Lentils - Desi-Whole',92.7516,9.6308,0.532,79.62,4.21
+target_30,Linear Regression,'Lentils - Desi-Whole',89.9717,9.4853,0.5935,88.06,4.48
+target_30,M5P,'Lentils - Desi-Whole',99.8622,9.9931,0.6615,108.67,5.61
+target_30,Random Forest,'Lentils - Desi-Whole',68.602,8.2826,0.6431,63.0,3.32
+target_30,XGBoost,'Lentils - Desi-Whole',135.3262,11.633,0.392,106.97,5.47
+target_30,Gradient Boosting,'Onion (local)',252.7219,15.8972,-0.2115,111.35,15.47
+target_30,Linear Regression,'Onion (local)',237.4166,15.4083,-0.3128,112.23,16.71
+target_30,M5P,'Onion (local)',262.1181,16.1901,-0.2659,116.9,16.68
+target_30,Random Forest,'Onion (local)',169.4559,13.0175,0.422,59.54,8.12
+target_30,XGBoost,'Onion (local)',269.4418,16.4147,-0.0626,117.69,16.39
+target_30,Gradient Boosting,'Palm Oil',17.7015,4.2073,0.4311,120.24,1.54
+target_30,Linear Regression,'Palm Oil',48.0154,6.9293,0.2849,295.34,3.66
+target_30,M5P,'Palm Oil',32.2779,5.6814,0.3591,221.54,2.75
+target_30,Random Forest,'Palm Oil',14.3911,3.7936,0.3673,96.5,1.24
+target_30,XGBoost,'Palm Oil',17.3088,4.1604,0.3198,106.04,1.36
+target_30,Gradient Boosting,'Pangash (big)',137.2549,11.7156,0.5461,75.5,3.63
+target_30,Linear Regression,'Pangash (big)',218.6552,14.787,0.4867,124.4,5.96
+target_30,M5P,'Pangash (big)',166.4329,12.9009,0.5007,99.46,4.8
+target_30,Random Forest,'Pangash (big)',89.1905,9.4441,0.7159,56.15,2.77
+target_30,XGBoost,'Pangash (big)',101.4903,10.0742,0.6563,66.66,3.33
+target_30,Gradient Boosting,'Potato (Holland) - Red',9.573,3.094,0.1946,95.21,7.62
+target_30,Linear Regression,'Potato (Holland) - Red',60.1387,7.7549,0.5248,355.89,29.23
+target_30,M5P,'Potato (Holland) - Red',30.737,5.5441,0.2841,178.02,14.51
+target_30,Random Forest,'Potato (Holland) - Red',25.1408,5.0141,-0.0196,209.63,16.41
+target_30,XGBoost,'Potato (Holland) - Red',19.2562,4.3882,0.3925,155.74,12.57
+target_30,Gradient Boosting,'Rice - Fine',17.6216,4.1978,0.0696,193.28,4.79
+target_30,Linear Regression,'Rice - Fine',18.6174,4.3148,0.3746,197.92,4.75
+target_30,M5P,'Rice - Fine',9.1085,3.018,0.2334,138.28,3.41
+target_30,Random Forest,'Rice - Fine',10.2098,3.1953,-0.1947,147.57,3.64
+target_30,XGBoost,'Rice - Fine',3.7304,1.9314,0.6793,70.32,1.74
+target_30,Gradient Boosting,'Rice - Medium',17.7678,4.2152,0.2968,96.9,2.62
+target_30,Linear Regression,'Rice - Medium',41.3241,6.4284,0.1998,266.31,7.53
+target_30,M5P,'Rice - Medium',20.74,4.5541,0.2898,128.98,3.55
+target_30,Random Forest,'Rice - Medium',16.1477,4.0184,0.2532,98.95,2.73
+target_30,XGBoost,'Rice - Medium',16.4124,4.0512,0.2847,84.39,2.27
+target_30,Gradient Boosting,'Soybean Oil(loose)',29.5473,5.4357,0.0434,126.87,1.92
+target_30,Linear Regression,'Soybean Oil(loose)',57.4168,7.5774,0.3102,232.23,3.46
+target_30,M5P,'Soybean Oil(loose)',35.1741,5.9308,0.2047,152.78,2.28
+target_30,Random Forest,'Soybean Oil(loose)',25.817,5.081,0.2238,117.23,1.77
+target_30,XGBoost,'Soybean Oil(loose)',30.5933,5.5311,0.3332,123.89,1.89
+target_30,Gradient Boosting,Beef,523.2488,22.8746,0.7411,47.01,1.34
+target_30,Linear Regression,Beef,789.1224,28.0913,0.7331,86.94,2.31
+target_30,M5P,Beef,555.778,23.5749,0.7181,54.96,1.55
+target_30,Random Forest,Beef,496.1686,22.2748,0.7535,42.76,1.22
+target_30,XGBoost,Beef,507.0493,22.5178,0.7504,40.73,1.18
+target_30,Gradient Boosting,Milk,16.5947,4.0737,0.9962,36.23,4.7
+target_30,Linear Regression,Milk,74.3581,8.6231,0.9197,70.61,8.43
+target_30,M5P,Milk,1.2227,1.1058,0.9963,9.11,1.22
+target_30,Random Forest,Milk,1.0837,1.041,0.9968,6.71,0.95
+target_30,XGBoost,Milk,1.9781,1.4065,0.9937,11.03,1.46
+target_7,Gradient Boosting,'Ata (Packet)',1.3653,1.1685,0.9256,51.75,1.74
+target_7,Linear Regression,'Ata (Packet)',13.4213,3.6635,0.7826,179.99,5.96
+target_7,M5P,'Ata (Packet)',7.7655,2.7867,0.735,118.03,3.96
+target_7,Random Forest,'Ata (Packet)',4.122,2.0303,0.9319,90.67,3.01
+target_7,XGBoost,'Ata (Packet)',1.7764,1.3328,0.9204,57.42,1.94
+target_7,Gradient Boosting,'Ata (loose) - White',10.134,3.1834,0.575,58.17,3.88
+target_7,Linear Regression,'Ata (loose) - White',19.8481,4.4551,0.5467,104.06,7.05
+target_7,M5P,'Ata (loose) - White',15.1769,3.8958,0.4492,62.37,4.19
+target_7,Random Forest,'Ata (loose) - White',16.5575,4.0691,0.5509,114.84,8.22
+target_7,XGBoost,'Ata (loose) - White',9.4048,3.0667,0.646,70.21,4.81
+target_7,Gradient Boosting,'Broiler chicken',120.7344,10.9879,0.5525,94.47,4.94
+target_7,Linear Regression,'Broiler chicken',130.1917,11.4102,0.4084,115.38,6.02
+target_7,M5P,'Broiler chicken',119.1816,10.917,0.5149,97.54,5.07
+target_7,Random Forest,'Broiler chicken',153.2536,12.3796,0.5923,117.41,6.24
+target_7,XGBoost,'Broiler chicken',174.9607,13.2273,0.4322,110.02,5.72
+target_7,Gradient Boosting,'Egg Farm-Red',8.205,2.8644,0.6562,71.42,5.3
+target_7,Linear Regression,'Egg Farm-Red',22.2915,4.7214,0.5091,122.2,8.53
+target_7,M5P,'Egg Farm-Red',9.7196,3.1176,0.6417,75.68,5.65
+target_7,Random Forest,'Egg Farm-Red',13.9354,3.733,0.5455,98.96,7.07
+target_7,XGBoost,'Egg Farm-Red',14.2627,3.7766,0.6807,97.19,7.38
+target_7,Gradient Boosting,'Garlic (Imported)',119.6135,10.9368,0.9129,44.75,5.91
+target_7,Linear Regression,'Garlic (Imported)',224.1536,14.9718,0.9166,69.71,9.4
+target_7,M5P,'Garlic (Imported)',136.8024,11.6963,0.906,50.34,6.74
+target_7,Random Forest,'Garlic (Imported)',180.9387,13.4513,0.9075,58.88,7.96
+target_7,XGBoost,'Garlic (Imported)',104.4218,10.2187,0.9109,40.09,5.32
+target_7,Gradient Boosting,'Garlic (local) - Big Size',51.3624,7.1668,0.6378,80.24,6.27
+target_7,Linear Regression,'Garlic (local) - Big Size',60.443,7.7745,0.6682,101.99,7.67
+target_7,M5P,'Garlic (local) - Big Size',80.3503,8.9638,0.52,106.23,8.07
+target_7,Random Forest,'Garlic (local) - Big Size',76.9271,8.7708,0.5391,111.9,8.55
+target_7,XGBoost,'Garlic (local) - Big Size',142.5485,11.9394,0.3451,114.5,9.02
+target_7,Gradient Boosting,'Ginger (Imported)',2651.6534,51.4942,0.0882,110.19,13.22
+target_7,Linear Regression,'Ginger (Imported)',1917.2802,43.7868,-0.2353,105.01,12.45
+target_7,M5P,'Ginger (Imported)',1896.3366,43.5469,-0.1565,109.07,13.64
+target_7,Random Forest,'Ginger (Imported)',1752.8124,41.8666,-0.0074,92.15,10.83
+target_7,XGBoost,'Ginger (Imported)',1866.0565,43.1979,-0.1005,99.84,11.87
+target_7,Gradient Boosting,'Green Chili (Local)',894.2472,29.904,0.3961,95.58,23.23
+target_7,Linear Regression,'Green Chili (Local)',991.9592,31.4954,0.1945,103.88,27.28
+target_7,M5P,'Green Chili (Local)',40876.4384,202.1792,-0.1752,385.63,118.07
+target_7,Random Forest,'Green Chili (Local)',1436.3564,37.8993,0.1452,104.79,28.67
+target_7,XGBoost,'Green Chili (Local)',3266.3068,57.1516,0.0558,120.55,33.23
+target_7,Gradient Boosting,'Lentils - Desi-Whole',256.3029,16.0095,0.3345,76.39,6.33
+target_7,Linear Regression,'Lentils - Desi-Whole',197.1739,14.0419,0.3944,79.22,6.36
+target_7,M5P,'Lentils - Desi-Whole',188.0582,13.7134,0.4921,59.92,5.18
+target_7,Random Forest,'Lentils - Desi-Whole',164.0558,12.8084,0.5864,53.02,4.66
+target_7,XGBoost,'Lentils - Desi-Whole',214.3069,14.6392,0.4168,75.35,6.11
+target_7,Gradient Boosting,'Onion (local)',9.2,3.0331,0.2019,131.89,6.21
+target_7,Linear Regression,'Onion (local)',12.3866,3.5195,0.3312,163.61,8.01
+target_7,M5P,'Onion (local)',8.0945,2.8451,0.3137,121.08,5.82
+target_7,Random Forest,'Onion (local)',59.783,7.7319,-0.4589,389.26,18.81
+target_7,XGBoost,'Onion (local)',11.5019,3.3915,0.1718,147.67,7.19
+target_7,Gradient Boosting,'Palm Oil',12.1259,3.4822,0.5068,62.54,0.87
+target_7,Linear Regression,'Palm Oil',38.7042,6.2213,0.4099,248.23,3.28
+target_7,M5P,'Palm Oil',21.9376,4.6838,0.1817,140.4,1.89
+target_7,Random Forest,'Palm Oil',13.7882,3.7132,0.4618,86.95,1.18
+target_7,XGBoost,'Palm Oil',14.2002,3.7683,0.491,79.61,1.09
+target_7,Gradient Boosting,'Pangash (big)',104.7499,10.2347,0.6424,58.88,2.77
+target_7,Linear Regression,'Pangash (big)',168.8967,12.996,0.6967,105.65,4.94
+target_7,M5P,'Pangash (big)',185.9398,13.636,0.5345,107.56,5.0
+target_7,Random Forest,'Pangash (big)',146.8311,12.1174,0.546,78.42,3.64
+target_7,XGBoost,'Pangash (big)',123.3626,11.1069,0.5889,68.89,3.22
+target_7,Gradient Boosting,'Potato (Holland) - Red',30.3349,5.5077,0.3249,71.69,10.28
+target_7,Linear Regression,'Potato (Holland) - Red',60.9564,7.8075,0.383,162.76,23.34
+target_7,M5P,'Potato (Holland) - Red',46.1664,6.7946,0.2501,75.87,10.22
+target_7,Random Forest,'Potato (Holland) - Red',35.6332,5.9694,0.3349,96.34,13.18
+target_7,XGBoost,'Potato (Holland) - Red',28.5618,5.3443,0.4565,69.85,9.61
+target_7,Gradient Boosting,'Rice - Fine',4.0729,2.0181,0.644,101.78,2.09
+target_7,Linear Regression,'Rice - Fine',11.6644,3.4153,0.5219,196.56,3.94
+target_7,M5P,'Rice - Fine',4.4512,2.1098,0.808,105.27,2.1
+target_7,Random Forest,'Rice - Fine',6.614,2.5718,0.6485,143.26,2.94
+target_7,XGBoost,'Rice - Fine',13.0668,3.6148,0.3621,128.6,2.62
+target_7,Gradient Boosting,'Rice - Medium',5.0104,2.2384,0.6147,110.23,2.69
+target_7,Linear Regression,'Rice - Medium',15.3739,3.921,0.5425,230.81,5.63
+target_7,M5P,'Rice - Medium',15.5768,3.9467,0.4684,193.26,4.66
+target_7,Random Forest,'Rice - Medium',3.8672,1.9665,0.51,103.92,2.6
+target_7,XGBoost,'Rice - Medium',2.9235,1.7098,0.6899,83.55,2.08
+target_7,Gradient Boosting,'Soybean Oil(loose)',18.2636,4.2736,0.471,64.01,1.04
+target_7,Linear Regression,'Soybean Oil(loose)',45.9992,6.7823,0.5324,203.03,3.16
+target_7,M5P,'Soybean Oil(loose)',66.8049,8.1734,0.0468,244.36,3.78
+target_7,Random Forest,'Soybean Oil(loose)',20.7224,4.5522,0.4823,81.89,1.3
+target_7,XGBoost,'Soybean Oil(loose)',18.3083,4.2788,0.4996,65.08,1.06
+target_7,Gradient Boosting,Beef,466.8101,21.6058,0.7727,28.65,0.88
+target_7,Linear Regression,Beef,577.8215,24.0379,0.7758,61.88,1.73
+target_7,M5P,Beef,565.6275,23.7829,0.7446,39.88,1.18
+target_7,Random Forest,Beef,499.8306,22.3569,0.7596,32.55,0.98
+target_7,XGBoost,Beef,493.8449,22.2226,0.7609,33.55,1.01
+target_7,Gradient Boosting,Milk,2.4479,1.5646,0.9969,11.55,1.52
+target_7,Linear Regression,Milk,32.4778,5.6989,0.9881,44.57,5.14
+target_7,M5P,Milk,1.1483,1.0716,0.9966,9.11,1.17
+target_7,Random Forest,Milk,0.8816,0.939,0.9967,6.08,0.85
+target_7,XGBoost,Milk,2.6062,1.6144,0.9975,13.26,1.65

@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# Environments & IDEs
+.env
+.venv
+env/
+venv/
+.idea/
+.vscode/
+*.swp
+*~
+
+# OS artifacts
+.DS_Store
+Thumbs.db

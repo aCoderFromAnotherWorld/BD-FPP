@@ -1,0 +1,7 @@
+javaobj-py3
+python-weka-wrapper3
+scikit-learn
+xgboost
+pandas
+numpy
+joblib

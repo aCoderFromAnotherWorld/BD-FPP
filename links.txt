@@ -1,0 +1,12 @@
+GitHub Repo: https://github.com/aCoderFromAnotherWorld/BD-FPP
+Data Source: https://moa-services.com/market-directory/product-wise-market-price-report
+
+
+# Presentation Slide is inside the "Slide" folder
+# Report is inside the "Report" folder
+# To see the time-series diagrams please extract "timeseries_figures.rar".
+
+
+# Dataset is attached to the zip and uploaded to the GitHub repo.
+# Models are compressed as a RAR file. Please extract them before use.
+# For more details please visit to our GitHub Repo.
